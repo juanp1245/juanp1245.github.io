@@ -1,0 +1,17 @@
+@media only screen and (max-width: 1024px){
+    /* generated in /home/qodeinteractive/aviana/public_html/wp-content/themes/aviana/assets/custom-styles/general-custom-styles-responsive.php aviana_mikado_content_responsive_styles function */
+    .mkdf-content .mkdf-content-inner > .mkdf-container > .mkdf-container-inner, .mkdf-content .mkdf-content-inner > .mkdf-full-width > .mkdf-full-width-inner { padding-top: 30px!important;}
+    
+    }
+    
+    @media only screen and (min-width: 769px) and (max-width: 1024px){
+    }
+    
+    @media only screen and (min-width: 681px) and (max-width: 768px){
+    }
+    
+    @media only screen and (max-width: 680px){
+    /* generated in /home/qodeinteractive/aviana/public_html/wp-content/themes/aviana/assets/custom-styles/general-custom-styles-responsive.php aviana_mikado_h2_responsive_styles2 function */
+    h2 { line-height: 44px;}
+    
+    }
